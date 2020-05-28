@@ -68,7 +68,7 @@ rem HologramsPlus
 del /f /s /q config\hologramsplus.conf
 
 rem Latch
-del /f /s /q config\latch\latch.mv
+del /f /s /q config\latch\latch.mv.db
 
 rem Prism
 del /f /s /q config\prism\prism.mv.db

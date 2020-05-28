@@ -64,7 +64,7 @@ config\hologramsplus.conf
 
 ### Latch
 ```
-config\latch\latch.mv
+config\latch\latch.mv.db
 ```
 
 ### Prism

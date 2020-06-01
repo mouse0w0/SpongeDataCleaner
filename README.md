@@ -1,6 +1,9 @@
 # SpongeDataCleaner
 A .bat script for cleaning Minecraft‘s Sponge server data, for reuse or publish server files
 
+## Download
+- [Windows .bat file](https://raw.githubusercontent.com/Mouse0w0/SpongeDataCleaner/master/build/sponge_data_cleaner.bat)
+
 ## What data will be cleaned up?
 
 ### Vanilla

@@ -1,0 +1,11 @@
+{
+    "description": "LuckPerms",
+    "directories": [
+        "luckperms/sponge-data",
+        "luckperms/yaml-storage"
+    ],
+    "files": [
+        "luckperms/contexts.json",
+        "luckperms/luckperms-h2.mv.db"
+    ]
+}

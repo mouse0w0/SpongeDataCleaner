@@ -1,0 +1,8 @@
+{
+    "description": "Prism",
+    "directories": [],
+    "files": [
+        "config/prism/prism.mv.db",
+        "config/prism/prism.trace.db"
+    ]
+}

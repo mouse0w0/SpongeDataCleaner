@@ -1,0 +1,9 @@
+{
+    "description": "CarrotShop",
+    "directories": [
+        "config/carrotshop/logs"
+    ],
+    "files": [
+        "config/carrotshop/shops.json"
+    ]
+}

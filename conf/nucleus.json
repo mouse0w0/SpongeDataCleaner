@@ -1,0 +1,13 @@
+{
+    "description": "Nucleus",
+    "directories": [
+        "nucleus/userdata",
+        "nucleus/worlddata"
+    ],
+    "files": [
+        "nucleus/namebans.json",
+        "nucleus/namebans.json.bak",
+        "nucleus/nucleususercache.json",
+        "nucleus/nucleususercache.json.bak"
+    ]
+}

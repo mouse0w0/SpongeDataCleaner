@@ -1,0 +1,4 @@
+echo Completed Clean! Have a good time :)
+
+:exit
+pause

@@ -1,0 +1,9 @@
+{
+    "description": "GriefPrevention",
+    "directories": [
+        "config/griefprevention/GlobalPlayerData",
+        "config/griefprevention/Logs",
+        "config/griefprevention/worlds/minecraft"
+    ],
+    "files": []
+}

@@ -1,0 +1,7 @@
+{
+    "description": "Sponge",
+    "directories": [
+        "config/sponge/worlds"
+    ],
+    "files": []
+}

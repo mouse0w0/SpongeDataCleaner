@@ -1,0 +1,13 @@
+@echo off
+echo -------------------------------------------------
+echo Sponge Data Cleaner
+echo Author: Mouse0w0
+echo -------------------------------------------------
+echo Are you confirm to clean up the server data? (Yes: Y, No: N)
+set /p confirm=
+
+if "%confirm%" == "Y" goto doClean
+goto exit
+
+:doClean
+echo Cleaning......

@@ -1,0 +1,7 @@
+{
+    "description": "Latch",
+    "directories": [],
+    "files": [
+        "config/latch/latch.mv.db"
+    ]
+}
